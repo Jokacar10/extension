@@ -244,7 +244,7 @@
     "@types/sass-loader": "^8.0.3",
     "@types/stylus": "^0.48.38",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
-    "@typescript-eslint/parser": "^5.26.0",
+    "@typescript-eslint/parser": "^8.34.1",
     "autoprefixer": "^10.4.7",
     "babel-plugin-import": "^1.13.5",
     "copy-webpack-plugin": "^13.0.0",
